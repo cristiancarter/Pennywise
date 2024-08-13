@@ -29,7 +29,7 @@ To run the Pennywise application, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Pennywise.git
+   git clone https://github.com/cristiancarter/Pennywise.git
    cd Pennywise
    ```
 
